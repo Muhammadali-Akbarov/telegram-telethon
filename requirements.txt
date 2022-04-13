@@ -1,4 +1,4 @@
-environs==9.5.0
+environs
 marshmallow
 packaging
 pkg_resources
